@@ -6,8 +6,8 @@
 
 Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.
 
-|   Index | Name                                                  | Difficulty   | Tutorial                                                                                                 |
-|---------|-------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | Tutorial                                                                                                |
+|---------|------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Your First Go Lab                                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-go-lab-92714)                                   |
 |     002 | 📖 Beginner's Guide to Go Programming                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/beginner-s-guide-to-go-programming-149062)                 |
 |     003 | 📖 GOPATH and Module                                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/gopath-and-module-149063)                                  |
@@ -139,7 +139,8 @@ Golang is an open-source programming language that makes it easy to build simple
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Go Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
