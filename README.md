@@ -34,9 +34,9 @@ Golang is an open-source programming language that makes it easy to build simple
 |     024 | 📖 Go Basics: Value Types Exploration                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-go-basics-value-types-exploration-15526)                   |
 |     025 | 📖 Golang Constants Comprehension                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-constants-comprehension-15465)                      |
 |     026 | 📖 Exploring Golang Variable Declarations             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-exploring-golang-variable-declarations-15527)              |
-|     027 | 📖 Strings and Runes                                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-strings-and-runes-15513)                                   |
+|     027 | 📖 String Formatting Fundamentals in Golang           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-string-formatting-fundamentals-in-golang-15511)            |
 |     028 | 📖 String Manipulation in Go                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-string-manipulation-in-go-15512)                           |
-|     029 | 📖 String Formatting Fundamentals in Golang           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-string-formatting-fundamentals-in-golang-15511)            |
+|     029 | 📖 Strings and Runes                                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-strings-and-runes-15513)                                   |
 |     030 | 📖 Arrays Manipulation in Golang                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-arrays-manipulation-in-golang-15453)                       |
 |     031 | 📖 Mastering Go Slices: A Hands-on                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-mastering-go-slices-a-hands-on-15506)                      |
 |     032 | 📖 Creating and Manipulating Go Maps                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-creating-and-manipulating-go-maps-15487)                   |
@@ -45,9 +45,9 @@ Golang is an open-source programming language that makes it easy to build simple
 |     035 | 📖 Golang For Loop Understanding                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-for-loop-understanding-15476)                       |
 |     036 | 📖 Go If-Else Branching                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-go-if-else-branching-15483)                                |
 |     037 | 📖 Concise Switch Statement Explanation               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-concise-switch-statement-explanation-15516)                |
-|     038 | 📖 Variadic Functions in Go                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-variadic-functions-in-go-15528)                            |
+|     038 | 📖 Functions in Go Programming                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-functions-in-go-programming-15477)                         |
 |     039 | 📖 Multiple Return Values                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-multiple-return-values-15489)                              |
-|     040 | 📖 Functions in Go Programming                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-functions-in-go-programming-15477)                         |
+|     040 | 📖 Variadic Functions in Go                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-variadic-functions-in-go-15528)                            |
 |     041 | 📖 Go Programming Language Methods                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-go-programming-language-methods-15488)                     |
 |     042 | 📖 Go Interfaces Tutorial                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-go-interfaces-tutorial-15484)                              |
 |     043 | 📖 Golang Struct Embedding                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-struct-embedding-15514)                             |
@@ -60,13 +60,13 @@ Golang is an open-source programming language that makes it easy to build simple
 |     050 | 📖 Creating Closures with Anonymous Functions in Go   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-creating-closures-with-anonymous-functions-in-go-15461)    |
 |     051 | 📖 Recursive Functions in Golang                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-recursive-functions-in-golang-15501)                       |
 |     052 | 📖 Golang Goroutines Concurrency                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-goroutines-concurrency-15479)                       |
-|     053 | 📖 Range Over Channels                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-range-over-channels-15496)                                 |
-|     054 | 📖 Synchronizing Goroutines with Channels             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-synchronizing-goroutines-with-channels-15458)              |
-|     055 | 📖 Golang Channels Concurrency                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-channels-concurrency-15459)                         |
-|     056 | 📖 Golang Channel Communication with Workers          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-channel-communication-with-workers-15460)           |
-|     057 | 📖 Non-Blocking Channel Operations                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-non-blocking-channel-operations-15491)                     |
-|     058 | 📖 Buffered Channels in Go Programming                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-buffered-channels-in-go-programming-15456)                 |
-|     059 | 📖 Golang Channel Function Parameters                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-channel-function-parameters-15457)                  |
+|     053 | 📖 Buffered Channels in Go Programming                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-buffered-channels-in-go-programming-15456)                 |
+|     054 | 📖 Golang Channel Function Parameters                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-channel-function-parameters-15457)                  |
+|     055 | 📖 Synchronizing Goroutines with Channels             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-synchronizing-goroutines-with-channels-15458)              |
+|     056 | 📖 Golang Channels Concurrency                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-channels-concurrency-15459)                         |
+|     057 | 📖 Golang Channel Communication with Workers          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-channel-communication-with-workers-15460)           |
+|     058 | 📖 Non-Blocking Channel Operations                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-non-blocking-channel-operations-15491)                     |
+|     059 | 📖 Range Over Channels                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-range-over-channels-15496)                                 |
 |     060 | 📖 Go Select Statement Demonstration                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-go-select-statement-demonstration-15503)                   |
 |     061 | 📖 Implementing Go Timeouts with Channels             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-implementing-go-timeouts-with-channels-15523)              |
 |     062 | 📖 Golang Timer and Ticker Tutorial                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-timer-and-ticker-tutorial-15524)                    |
@@ -84,8 +84,8 @@ Golang is an open-source programming language that makes it easy to build simple
 |     074 | 📖 Working with Directories in Go                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-working-with-directories-in-go-15468)                      |
 |     075 | 📖 Temporary Files and Directories                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-temporary-files-and-directories-15517)                     |
 |     076 | 📖 Embedding Files in Go Binaries                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-embedding-files-in-go-binaries-15469)                      |
-|     077 | 📖 Sorting by Functions                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-sorting-by-functions-15507)                                |
-|     078 | 📖 Sorting Built-in Types in Go                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-sorting-built-in-types-in-go-15508)                        |
+|     077 | 📖 Sorting Built-in Types in Go                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-sorting-built-in-types-in-go-15508)                        |
+|     078 | 📖 Sorting by Functions                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-sorting-by-functions-15507)                                |
 |     079 | 📖 Dynamic Content Generation with Golang Templates   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-dynamic-content-generation-with-golang-templates-15519)    |
 |     080 | 📖 Golang Regular Expression Tutorial                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-regular-expression-tutorial-15502)                  |
 |     081 | 📖 Golang JSON Encoding and Decoding                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-json-encoding-and-decoding-15485)                   |
@@ -100,8 +100,8 @@ Golang is an open-source programming language that makes it easy to build simple
 |     090 | 📖 Base64 Encoding in Golang                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-base64-encoding-in-golang-15455)                           |
 |     091 | 📖 Testing and Benchmarking                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-testing-and-benchmarking-15518)                            |
 |     092 | 📖 Command-Line Argument Handling in Go               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-command-line-argument-handling-in-go-15462)                |
-|     093 | 📖 Command Line Subcommands                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-command-line-subcommands-15464)                            |
-|     094 | 📖 Command-Line Flag Parsing in Go                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-command-line-flag-parsing-in-go-15463)                     |
+|     093 | 📖 Command-Line Flag Parsing in Go                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-command-line-flag-parsing-in-go-15463)                     |
+|     094 | 📖 Command Line Subcommands                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-command-line-subcommands-15464)                            |
 |     095 | 📖 Fundamentals of Unix Environment Variables         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-fundamentals-of-unix-environment-variables-15470)          |
 |     096 | 📖 Golang HTTP Request Handling                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-golang-http-request-handling-15481)                        |
 |     097 | 📖 Basic HTTP Server in Go                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-basic-http-server-in-go-15482)                             |
@@ -110,31 +110,43 @@ Golang is an open-source programming language that makes it easy to build simple
 |     100 | 📖 Spawning External Processes in Go                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-spawning-external-processes-in-go-15509)                   |
 |     101 | 📖 Handling Unix Signals in Go                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-handling-unix-signals-in-go-15505)                         |
 |     102 | 📖 Exit Function in Go                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-exit-function-in-go-15474)                                 |
+|     103 | 📖 Development of Golang Caching Component            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/go-development-of-golang-caching-component-298844)            |
 
 ## More Free Tutorials
 
 - [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 - [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 - [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
 - [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
 - [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 - [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
 - [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 - [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 - [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 - [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 - [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
 - [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 - [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 - [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 - [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
 - [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 - [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
