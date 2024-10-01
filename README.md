@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.
+Go is a modern, efficient programming language. This Skill Tree presents a systematic approach to learning Go. Ideal for programmers looking to explore concurrent and systems programming, it offers a structured roadmap to understand Go's syntax, concurrency model, and standard library. Hands-on, non-video courses and coding exercises in an interactive Go playground ensure you develop practical skills in writing efficient and scalable Go programs.
 
 |   Index | Name                                                                                                                                       | Difficulty   | Tutorial Link                                                                                  |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------|
@@ -114,15 +114,15 @@ Golang is an open-source programming language that makes it easy to build simple
 ## More Free Tutorials
 
 - [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
 - [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 - [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 - [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
