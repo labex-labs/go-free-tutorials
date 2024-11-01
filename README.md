@@ -1,10 +1,10 @@
-# Go Free Tutorials
+# Golang Free Tutorials
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Go is a modern, efficient programming language. This Skill Tree presents a systematic approach to learning Go. Ideal for programmers looking to explore concurrent and systems programming, it offers a structured roadmap to understand Go's syntax, concurrency model, and standard library. Hands-on, non-video courses and coding exercises in an interactive Go playground ensure you develop practical skills in writing efficient and scalable Go programs.
+Golang is a modern, efficient programming language. This Skill Tree presents a systematic approach to learning Go. Ideal for programmers looking to explore concurrent and systems programming, it offers a structured roadmap to understand Go's syntax, concurrency model, and standard library. Hands-on, non-video courses and coding exercises in an interactive Golang playground ensure you develop practical skills in writing efficient and scalable Golang programs.
 
 |   Index | Name                                                                                                                                       | Difficulty   | Tutorial Link                                                                                  |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------|
@@ -115,7 +115,7 @@ Go is a modern, efficient programming language. This Skill Tree presents a syste
 
 - [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 - [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 - [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
@@ -132,10 +132,7 @@ Go is a modern, efficient programming language. This Skill Tree presents a syste
 - [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 - [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 - [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Golang Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 - [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 - [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 - [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
@@ -145,11 +142,10 @@ Go is a modern, efficient programming language. This Skill Tree presents a syste
 - [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
 
-- 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Go Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Golang Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Golang Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
